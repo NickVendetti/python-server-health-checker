@@ -1,0 +1,10 @@
+2026-05-20 01:59:20.675072 - google.com Is Online
+2026-05-20 01:59:20.711791 - github.com Is Online
+2026-05-20 01:59:20.753717 - cloudflare.com Is Online
+2026-05-20 01:59:20.783579 - nickvendetti.dev Is Online
+2026-05-20 01:59:20.896776 - fakeserver12345.com Is Offline
+2026-05-20 02:01:15.417652 - google.com Is Online
+2026-05-20 02:01:15.432210 - github.com Is Online
+2026-05-20 02:01:15.467009 - cloudflare.com Is Online
+2026-05-20 02:01:15.495107 - nickvendetti.dev Is Online
+2026-05-20 02:01:15.506967 - fakeserver12345.com Is Offline
